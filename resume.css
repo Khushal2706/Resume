@@ -516,3 +516,25 @@ button:focus {
     font-weight: 600;
 
 }
+
+/* setting background-color */
+
+.m-blue {
+    color: #2857a4;
+}
+
+.mb-blue {
+    background-color: #2857a4;
+}
+
+.mb-orange {
+    background-color: #ec4d1c;
+}
+
+.mb-teal {
+    background-color: #0b8176;
+}
+
+.mb-light-purple {
+    background-color: #93738c;
+}
